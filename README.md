@@ -15,11 +15,11 @@ It is a study that compares machine learning and deep learning in shallow data f
 
 
 <div>
-<img src="https://camo.githubusercontent.com/d55a437337d0e08c6a082714959253d80b81ce4e6c18e94688d9aff16e3bf2f8/68747470733a2f2f6c6d622e696e666f726d6174696b2e756e692d66726569627572672e64652f70656f706c652f726f6e6e656265722f752d6e65742f752d6e65742d6172636869746563747572652e706e67" width="50%"/>
+  <img src="https://camo.githubusercontent.com/d55a437337d0e08c6a082714959253d80b81ce4e6c18e94688d9aff16e3bf2f8/68747470733a2f2f6c6d622e696e666f726d6174696b2e756e692d66726569627572672e64652f70656f706c652f726f6e6e656265722f752d6e65742f752d6e65742d6172636869746563747572652e706e67" width="50%"/>
 
-<img src="https://d3i71xaburhd42.cloudfront.net/7447a957fe1a4922fb7e28cf672d3d84b2963d83/2-Figure1-1.png" width="50%"/>
+  <img src="https://d3i71xaburhd42.cloudfront.net/7447a957fe1a4922fb7e28cf672d3d84b2963d83/2-Figure1-1.png" width="50%"/>
 
-<img src="https://chadrick-kwag.net/wp-content/uploads/2021/01/1.png" width="50%"/>
+  <img src="https://chadrick-kwag.net/wp-content/uploads/2021/01/1.png" width="50%"/>
 
 </div>
 
