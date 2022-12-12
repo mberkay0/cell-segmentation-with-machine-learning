@@ -14,7 +14,6 @@
 
 > It is a process that helps the biologist quickly notice the background from the foreground in the cell segmentation task, categorizing pixels into significant regions. Cell segmentation is crucial for biologists to extract cells' morphology, polarity and motility. It increases the accuracy and speed of the diagnosis. It is also more robust and provides reliable results for biologists to use. This study compared ML and DL semantic segmentation methods for cancer cells in various environments.
 
-Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy Data-Set*
 
 <h3>
   <strong>Table of Contents</strong>
@@ -30,6 +29,8 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
 
 # Data
+
+Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy Data-Set*
 
 The cells are examined in 3 different environments: matrigel, normal and collagen-coated. In experiments with a glass surface, the cells do not attach to the glass for long periods, and In most experiments, they are circular and shiny. On the other hand, matrigel-coated surfaces allow the cells to attach to the environment immediately. The collagen-coated also ensures a fast stick of cells such as matrigel. They are very different visually since they are different surfaces from each other.
 
