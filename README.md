@@ -40,7 +40,7 @@ The cells are examined in 3 different environments: matrigel, normal and collage
 Deep learning models are known to require large data sets for the training process. Unfortunately, we often need more data to be collected for a pixel classification problem. For example, collecting many biomedical images with your mobile phone is impossible. And then there's the label-up part, which needs to be more for an ordinary eye. Expert eyes and experience are required. Will ML algorithms surpass DL algorithms in a relatively shallow data set?
 
 <div align="center">
-  <img src="/images/amount_data.jpg" width="50%"/>
+  <img src="/images/amount_data.png" width="50%"/>
 </div>
 
 # ML-Methods
@@ -82,7 +82,7 @@ For each pixel, features are extracted using LBP, Haralick and 2D filters. Each 
 </h3>
 
 
-<div>
+<div align="center">
 <img src="https://sbme-tutorials.github.io/2018/cv/images/2DConv.png" width="500"/>
 </div>
 
@@ -93,7 +93,7 @@ For each pixel, features are extracted using LBP, Haralick and 2D filters. Each 
 </h3>
 
 
-<div>
+<div align="center">
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-04151-4/MediaObjects/41598_2017_4151_Fig4_HTML.jpg?as=webp" width="630"/>
 </div>
 
