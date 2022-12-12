@@ -177,8 +177,10 @@ DL approaches are pretty successful from ML approaches both numerically and visu
 
 <div align="center">
   <img src="/images/IoU_framebyframe.png" width="45%"/> 
-  
-  <img src="/images/result.jpg" width="45%"/> 
+</div>
+
+<div align="center">
+  <img src="/images/result.jpg" width="60%"/> 
 </div>
 
 But the ML algorithms performed relatively well. So ML algorithms can be a quick solution to save the day on even fewer data sets.
