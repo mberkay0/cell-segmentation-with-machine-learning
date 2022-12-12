@@ -91,3 +91,7 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
 [2] [Chaurasia, A., & Culurciello, E. (2017, December). Linknet: Exploiting encoder representations for efficient semantic segmentation. In 2017 IEEE Visual Communications and Image Processing (VCIP) (pp. 1-4). IEEE.](https://arxiv.org/pdf/1707.03718.pdf)
 
 [3] [Lin, T. Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). Feature pyramid networks for object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2117-2125).](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)
+
+[4] [LBP (Local Binary Patterns)](https://pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/)
+
+[5] [R. M. Haralick, K. Shanmugam and I. Dinstein, "Textural Features for Image Classification," in IEEE Transactions on Systems, Man, and Cybernetics, vol. SMC-3, no. 6, pp. 610-621, Nov. 1973, doi: 10.1109/TSMC.1973.4309314.](https://doi.org/10.1109/TSMC.1973.4309314)
