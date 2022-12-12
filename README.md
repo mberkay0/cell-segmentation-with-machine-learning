@@ -1,6 +1,44 @@
 # Cell Segmentation Using Machine Learning
 It is a study that compares machine learning and deep learning in shallow data for the cell segmentation problem.
 
+<h3>
+  <strong>Introduction</strong>
+</h3>
+
+
+> Label-free Cell segmentation is the task of classifying a microscopic image area, pixels representing individual cell instances. It is a fundamental step in many biomedical studies and needs to be meticulously processed.
+
+
+<h3>
+  <strong>Problem Definition</strong>
+</h3>
+
+> It is a process that helps the biologist quickly notice the background from the foreground in the cell segmentation task, categorizing pixels into significant regions. Cell segmentation is crucial for biologists to extract cells' morphology, polarity and motility. It increases the accuracy and speed of the diagnosis. It is also more robust and provides reliable results for biologists to use.
+
+Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy Data-Set*
+
+<h3>
+  <strong>Table of Contents</strong>
+</h3>
+
+1.   [Semantic Segmentation with Traditional Machine Learning Methods](#cell-id1)
+
+    1.1. [Data Generator](#cell-id1.1)
+
+    1.2. [Machine Learning Approaches](#cell-id1.2)
+
+2.   [Semantic Segmentation with Deep Learning Methods](#cell-id2) 
+
+    2.1. [Data Generator](#cell-id2.1)
+    
+    2.2. [Convolutional Neural Networks Approaches](#cell-id2.2)
+
+3.   [Analyzes](#cell-id3)
+
+
+[References](#cell-id5)
+
+
 
 <div class="alert alert-success" markdown="1">
 
