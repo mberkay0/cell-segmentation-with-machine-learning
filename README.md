@@ -158,11 +158,11 @@ $HXY2=-Σ_iΣ_jp_x(i)p_y(j)log{(p_x(i)p_y(j))}$
 For DL methods, UNet [1], LinkNet [2] and PSPNet [3] were used.
 
 <div align="center">
-  <img src="/images/unet.png" width="50%"/>
+  <img src="/images/unet.png" width="50%"/><br>Unet</br>
 
-  <img src="/images/linknet.png" width="50%"/>
+  <img src="/images/linknet.png" width="50%"/><br>LinkNet</br>
 
-  <img src="/images/fpn.png" width="50%"/>
+  <img src="/images/fpn.png" width="50%"/><br>PSPNet</br>
 
 </div>
 
