@@ -20,6 +20,7 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
   <strong>Table of Contents</strong>
 </h3>
 
+> * [Data](#data)
 > * [Semantic Segmentation with Traditional Machine Learning Methods](#ml-methods)
 > * [Semantic Segmentation with Deep Learning Methods](#dl-methods) 
 > * [Analyzes](#analyzes)
@@ -28,6 +29,7 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
 
+# Data
 
 The cells are examined in 3 different environments: matrigel, normal and collagen-coated. In experiments with a glass surface, the cells do not attach to the glass for long periods, and In most experiments, they are circular and shiny. On the other hand, matrigel-coated surfaces allow the cells to attach to the environment immediately. The collagen-coated also ensures a fast stick of cells such as matrigel. They are very different visually since they are different surfaces from each other.
 
