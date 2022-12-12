@@ -14,6 +14,39 @@ It is a study that compares machine learning and deep learning in shallow data f
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
 
 
+
+<h3>
+  <strong>1.1 Local Binary Patterns</strong>
+</h3>
+
+
+<div>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_thresholding.jpg?lossy=1&strip=1&webp=1" width="430"/>
+</div>
+
+**Figure 1.1.1:** The first step in constructing a LBP is to take the 8 pixel neighborhood surrounding a center pixel and threshold it to construct a set of 8 binary digits.
+
+
+<div>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_calculation-1024x299.jpg?lossy=1&strip=1&webp=1" width="450"/>
+</div>
+
+
+<div>
+<img src="https://pyimagesearch.com/wp-content/uploads/2015/12/lbp_to_output.jpg" width="450"/>
+</div>
+
+**Figure 1.1.2:** Taking the 8-bit binary neighborhood of the center pixel and converting it into a decimal representation. 
+
+<div>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_num_points_radii.jpg?lossy=1&strip=1&webp=1" width="350"/>
+</div>
+
+**Figure 1.1.3:** Three neighborhood examples with varying p and r used to construct Local Binary Patterns.
+
+
+
+
 <div>
   <img src="https://camo.githubusercontent.com/d55a437337d0e08c6a082714959253d80b81ce4e6c18e94688d9aff16e3bf2f8/68747470733a2f2f6c6d622e696e666f726d6174696b2e756e692d66726569627572672e64652f70656f706c652f726f6e6e656265722f752d6e65742f752d6e65742d6172636869746563747572652e706e67" width="50%"/>
 
