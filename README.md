@@ -21,25 +21,25 @@ It is a study that compares machine learning and deep learning in shallow data f
 
 
 <div>
-<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_thresholding.jpg?lossy=1&strip=1&webp=1" width="430"/>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_thresholding.jpg?lossy=1&strip=1&webp=1" width="43%"/>
 </div>
 
 **Figure 1.1.1:** The first step in constructing a LBP is to take the 8 pixel neighborhood surrounding a center pixel and threshold it to construct a set of 8 binary digits.
 
 
 <div>
-<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_calculation-1024x299.jpg?lossy=1&strip=1&webp=1" width="450"/>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_calculation-1024x299.jpg?lossy=1&strip=1&webp=1" width="45%"/>
 </div>
 
 
 <div>
-<img src="https://pyimagesearch.com/wp-content/uploads/2015/12/lbp_to_output.jpg" width="450"/>
+<img src="https://pyimagesearch.com/wp-content/uploads/2015/12/lbp_to_output.jpg" width="45%"/>
 </div>
 
 **Figure 1.1.2:** Taking the 8-bit binary neighborhood of the center pixel and converting it into a decimal representation. 
 
 <div>
-<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_num_points_radii.jpg?lossy=1&strip=1&webp=1" width="350"/>
+<img src="https://929687.smushcdn.com/2633864/wp-content/uploads/2015/12/lbp_num_points_radii.jpg?lossy=1&strip=1&webp=1" width="35%"/>
 </div>
 
 **Figure 1.1.3:** Three neighborhood examples with varying p and r used to construct Local Binary Patterns.
