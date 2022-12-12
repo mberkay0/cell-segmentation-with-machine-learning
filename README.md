@@ -21,22 +21,21 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
   <strong>Table of Contents</strong>
 </h3>
 
-1.   [Semantic Segmentation with Traditional Machine Learning Methods](#cell-id1)
+* [Semantic Segmentation with Traditional Machine Learning Methods](#cell-id1)
 
-   1.1. [Data Generator](#cell-id1.1)
+  * [Data Generator](#cell-id1.1)
 
-   1.2. [Machine Learning Approaches](#cell-id1.2)
+  * [Machine Learning Approaches](#cell-id1.2)
 
-2.   [Semantic Segmentation with Deep Learning Methods](#cell-id2) 
+* [Semantic Segmentation with Deep Learning Methods](#cell-id2) 
 
-   2.1. [Data Generator](#cell-id2.1)
+  * [Data Generator](#cell-id2.1)
     
-   2.2. [Convolutional Neural Networks Approaches](#cell-id2.2)
+  * [Convolutional Neural Networks Approaches](#cell-id2.2)
 
-3.   [Analyzes](#cell-id3)
+* [Analyzes](#cell-id3)
 
-
-[References](#cell-id5)
+* [References](#cell-id5)
 
 
 
