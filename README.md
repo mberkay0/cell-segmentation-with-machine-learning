@@ -1,5 +1,8 @@
 # Cell Segmentation Using Machine Learning
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
+
 <h3>
   <strong>Introduction</strong>
 </h3>
@@ -25,8 +28,6 @@
 > * [Analyzes](#analyzes)
 > * [References](#references)
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
 
 # Data
 
