@@ -38,7 +38,7 @@ The cells are examined in 3 different environments: matrigel, normal and collage
   <img src="/images/data.jpg" width="50%"/>
 </div>
 
-Deep learning models are known to require large data sets for the training process. Unfortunately, we often need more data to be collected for a pixel classification problem. For example, collecting many biomedical images with your mobile phone is impossible. And then there's the label-up part, which needs to be more for an ordinary eye. Expert eyes and experience are required. Will ML algorithms surpass DL algorithms in a relatively shallow data set?
+Deep learning models are known to require large data sets for the training process. Unfortunately, we often need more data to be collected for a pixel classification problem. For example, collecting many biomedical images with your mobile phone is impossible. And then there's the label-up part, which needs to be more for an ordinary eye. Expert eyes and experience are required. But will ML algorithms surpass DL algorithms in a relatively shallow data set?
 
 <div align="center">
   <img src="/images/amount_data.png" width="50%"/>
@@ -176,7 +176,9 @@ For DL methods, UNet [1], LinkNet [2] and PSPNet [3] were used.
 DL approaches are pretty successful from ML approaches both numerically and visually. 
 
 <div align="center">
-  <img src="/images/IoU_framebyframe.png" width="45%"/>
+  <img src="/images/IoU_framebyframe.png" width="45%"/> 
+  
+  <img src="/images/result.jpg" width="45%"/> 
 </div>
 
 But the ML algorithms performed relatively well. So ML algorithms can be a quick solution to save the day on even fewer data sets.
