@@ -169,10 +169,16 @@ For DL methods, UNet [1], LinkNet [2] and PSPNet [3] were used.
 # Analyzes
 
 <div align="center">
-  <img src="/images/avg_IoU.png" width="45%"/><img src="/images/IoU_framebyframe.png" width="45%"/>
+  <img src="/images/avg_IoU.png" width="45%"/>
 </div>
 
-DL approaches are pretty successful from ML approaches both numerically and visually. But the ML algorithms performed relatively well. So ML algorithms can be a quick solution to save the day on even fewer data sets.
+DL approaches are pretty successful from ML approaches both numerically and visually. 
+
+<div align="center">
+  <img src="/images/IoU_framebyframe.png" width="45%"/>
+</div>
+
+But the ML algorithms performed relatively well. So ML algorithms can be a quick solution to save the day on even fewer data sets.
 
 # References
 
