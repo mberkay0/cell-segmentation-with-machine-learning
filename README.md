@@ -27,7 +27,7 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
 >   * [Data Generator](#cell-id2.1)
 >   * [Convolutional Neural Networks Approaches](#cell-id2.2)
 > * [Analyzes](#cell-id3)
-> * [References](#cell-id5)
+> * [References](#references)
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
@@ -85,6 +85,7 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
   <img src="/images/IoU_framebyframe.png" width="50%"/>
 </div>
 
+# References
 
 [1] [Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.](https://https://arxiv.org/pdf/1505.04597.pdf)
 
