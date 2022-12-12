@@ -31,16 +31,6 @@ Data Source: *TUBITAK 119E578 Cell Motility Phase Contrast Time Lapse Microscopy
 > * [References](#cell-id5)
 
 
-
-<div class="alert alert-success" markdown="1">
-
-> This is a blockquote
-> - And a list
->     - And a nested element with a **bold**
-
-</div>
-
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
 
 
